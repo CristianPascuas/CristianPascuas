@@ -57,19 +57,9 @@ const cristian = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=CristianPascuas&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianPascuas&theme=tokyonight&hide_border=true&background=0D1117&locale=es" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=CristianPascuas&theme=tokyonight&hide_border=true&background=0D1117&locale=es" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianPascuas&layout=compact&theme=tokyonight&locale=es&hide_border=true&bg_color=0D1117&langs_count=8" alt="Lenguajes más utilizados" />
-
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=CristianPascuas&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
